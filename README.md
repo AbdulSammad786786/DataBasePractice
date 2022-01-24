@@ -1,2 +1,6 @@
 # DataBasePractice
-used for database classes and notes
+#Introduction
+Name: Abdul Sammad
+Student of Saint Leo University
+I like Database Systems
+I love to play cricket!
